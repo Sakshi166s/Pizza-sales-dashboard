@@ -9,4 +9,7 @@ Project overview -
 
   Objective -
    to determine the total revenue. To analyze the customer trends in sales , top selling pizza , average number of Pizza order , peak time sales . 
+
+
+   ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
   
