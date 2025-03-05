@@ -2,7 +2,7 @@
 
 # Project overview - 
 
-  In this project, we create dashboard of plato's pizza using Business intelligence tool(Power Bi). The dashboard highly shows customer preferences, peak time pizza sales,top selling Pizza , discover key performence indicators to increase the profit, management, improve efficiency
+  In this project, we create dashboard of plato's pizza using Business intelligence tool(Power Bi). The dashboard highly shows customer preferences, peak time pizza sales,top selling Pizza , discover key performence indicators to increase the profit, management, improve efficiency.
 
 # Dataset - 
 
