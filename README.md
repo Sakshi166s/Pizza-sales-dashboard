@@ -16,7 +16,7 @@
 
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/82ea9830d8dfaffe61787164ac25f89869261c0e/Details%20view.png)
-   check out dashboard using link - 
+   
    
 # 🖊️Key insights-
 
