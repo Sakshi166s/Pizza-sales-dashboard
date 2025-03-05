@@ -11,7 +11,7 @@
 
 # Objective -
 
-   To find the total revenue. To analyze the customer preferences with the help of puzza category, pizza size , top selling pizza . Identify trends in peak time sales .
+   To find the total revenue. To analyze the customer preferences with the help of pizza category, pizza size , top selling pizza .Identify trends with respect to day,month, time . Average order value , Average pizza per order.
 
 
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
