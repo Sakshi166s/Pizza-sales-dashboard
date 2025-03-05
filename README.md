@@ -8,9 +8,18 @@ Project overview -
   This dataset contains order id , Pizza name ,Quantity, Pizza size, Pizza category, order time , order date ,price.
 
   Objective -
-   to determine the total revenue. To analyze the customer trends in sales , top selling pizza , average number of Pizza order , peak time sales . 
+   To determine the total revenue. To analyze the customer trends in sales , top selling pizza , average number of Pizza order , peak time sales . 
 
 
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/82ea9830d8dfaffe61787164ac25f89869261c0e/Details%20view.png)
+
+   Key insights-
+     For the year , total revenue was $8,17,860.
+     Top selling Pizzas are The thai chicken Pizza , The barbecue chicken Pizza both contributed at $43K.
+     we saw by month ,july month's revenue increased at $72,557.90
+     Classic Pizza category contributed more but supreme and veggie contribute the same.
+     Total orders was 48,620 and Average pizza per order was 2.28
+     Most of the orders got at 1 PM that is mostly considered as lunch time.
+     
   
