@@ -11,7 +11,7 @@
 
 # Objective -
 
-   To find the total revenue. To analyze the customer preferences with the help of pizza category, pizza size , top selling pizza .Identify trends with respect to day,month, time . Average order value , Average pizza per order.
+   To find the total revenue. To analyze the customer preferences with the help of pizza category, pizza size , top selling pizza .Identify trends with respect to day, month, time . Average order value , Average pizza per order.
 
 
    ![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
@@ -22,9 +22,9 @@
 
 🔷 For the year , total revenue was $8,17,860.
 
-🔷 The Pizza which gave highest revenue i.e Top selling Pizzas were The thai chicken Pizza , The barbecue chicken Pizza both contributed at $43K.
+🔷 The Pizza which gave highest revenue i.e Top selling Pizzas were The Thai chicken Pizza , The barbecue chicken Pizza both contributed at $43K.
 
-🔷 We saw by month ,july month's revenue increased at $72,557.90
+🔷 We saw by month ,July month's revenue increased at $72,557.90
 
 🔷 Orders of L-sized Pizza was 18,526 which was sold more and XXL-sized sold too less.
 
@@ -32,7 +32,7 @@
  
 🔷 Classic Pizza category contributed more but supreme and veggie contribute the same.
  
-🔷 Out of 7 days(both weekdays and weekends),friday's revenue is increased at $136K as compared to other days.beacause , mostly friday is last working day.
+🔷 Out of 7 days(both weekdays and weekends),Friday's revenue is increased at $136K as compared to other days.Because , mostly friday is last working day.
  
 🔷 Most of the orders got at 1 PM that is mostly considered as lunch time.
 
